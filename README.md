@@ -1,19 +1,23 @@
-### customer_churn_prediction-model
+## customer_churn_prediction-model
 고객 이탈 예측 모델링
  
-model : random forest, KNN, logistic regression
-data : churn.csv
+#### model
+random forest, KNN, logistic regression
+#### data 
+churn.csv
 
 
-### bike_prediction
+## bike_prediction
 서울시 따릉이 수요 예측 모델링
 
-model : random forest, KNN, logistic regression
-data : SeouldBikeData.csv
+#### model  
+random forest, KNN, logistic regression
+#### data 
+SeouldBikeData.csv
 
 
 그 외 연습용 모델을 함께 첨부하였음
-> Classification tree
-> K-fold validation
-> mnist_knn
-> text mining
+#### Classification tree
+#### K-fold validation
+#### mnist_knn
+#### text mining
